@@ -22,3 +22,6 @@ For this project, I followed the exercises described by the project. The exercis
 For this project, I followed the exercises described by the OpenCV course.  
 * Skills presented: *Python programming*, *Functional programming*, *OpenCV*, *Code Interpretation*
 
+# [Project 5: ChatBox with ChatGPT API](https://github.com/numustafa/awesome-chatgpt-prompts/blob/main/dl_prompt_eng/chat_box.ipynb) 
+For this project, I followed the exercises described by the deeplearning.ai course.  
+* Skills presented: *Python programming*, *API*, *ChatGPT*
