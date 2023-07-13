@@ -17,3 +17,8 @@ For this project, I followed the workflow of KenJee. This project helps me expan
 # [Project 3: Models in Biological Neural Network](https://github.com/numustafa/Biological-Neural-Networks) 
 For this project, I followed the exercises described by the project. The exercises were based on the paper, I presented in my seminar. 
 * Skills presented: *Python programming*, *Functional programming*, *Python Libraries*, *Report Writing*, *Mathematics*, *Code Interpretation*, *Theory*
+
+# [Project 4: QR Detection](https://github.com/numustafa/Computer-Vision-1/tree/main/Assignment1) 
+For this project, I followed the exercises described by the OpenCV course.  
+* Skills presented: *Python programming*, *Functional programming*, *OpenCV*, *Code Interpretation*
+
