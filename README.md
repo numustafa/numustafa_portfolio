@@ -5,7 +5,8 @@ My work on building ML Pipelines, Data Pipelines and LLM Applications
 * Applied Data Analysis Tools, such as Data Cleaning, Data preprocessing, model building and Model Tunnning
 * Datailed the report on processes which are applied
 * Applied Supervised Machine learning techeniques  
-* Optimized Classifiers using GridsearchCV to reach the best model.  
+* Optimized Classifiers using GridsearchCV to reach the best model.
+* Skills presented: *Data Analysis*, *Python programming*, *Functional programming*, *Python Libraries*, *ML Pipelines*, *Kaggle Competition*, *Report Writing*
 
 
 # [Project 2: Housing Prices Regression Model](https://github.com/PlayingNumbers/ball_image_classifier) 
