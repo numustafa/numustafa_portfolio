@@ -1,14 +1,11 @@
 # NUMustafa_Portfolio
 My work on building ML Pipelines, Data Pipelines and LLM Applications
 
-# [Project 1: Kaggle Titanic Project](https://github.com/PlayingNumbers/ds_salary_proj) 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
-
-![](/images/positions_by_state.png)
+# [Project 1: Kaggle Titanic Project](https://github.com/numustafa/titanic_project) 
+* Applied Data Analysis Tools, such as Data Cleaning, Data preprocessing, model building and Model Tunnning
+* Datailed the report on processes which are applied
+* Applied Supervised Machine learning techeniques  
+* Optimized Classifiers using GridsearchCV to reach the best model.  
 
 
 # [Project 2: Housing Prices Regression Model](https://github.com/PlayingNumbers/ball_image_classifier) 
