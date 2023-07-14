@@ -6,7 +6,10 @@ My work on building ML Pipelines, Data Pipelines and LLM Applications
 * Datailed the report on processes which are applied
 * Applied Supervised Machine learning techeniques  
 * Optimized Classifiers using GridsearchCV to reach the best model.
-* Skills presented: *Data Analysis*, *Python programming*, *Functional programming*, *Python Libraries*, *ML Pipelines*, *Kaggle Competition*, *Report Writing*
+* Used Ensamble approach to find optimum classifier
+* Submitted outpur in a Dataframe
+  
+Skills presented: *Data Analysis*, *Python programming*, *Functional programming*, *Python Libraries*, *ML Pipelines*, *Kaggle Competition*, *Report Writing*
 
 
 # [Project 2: Housing Prices Regression Model](https://github.com/numustafa/housing_project) 
