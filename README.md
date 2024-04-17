@@ -1,6 +1,16 @@
 # NUMustafa_Portfolio
 My work on building ML Pipelines, Data Pipelines and LLM Applications
 
+# [Project 0: Reading Papers](https://github.com/numustafa/Papers-I-am-reading) 
+* Readi papers
+* Practice the code, presented in the paper
+* Apply the code to a current (or future projects)  
+* Taking notes on my Learning
+* Share my learning on my [Github](https://github.com/numustafa) , [Linkedin](https://www.linkedin.com/in/numustafa/recent-activity/all/) & [Medium](https://numustafa.medium.com/)
+  
+Skills presented: *Reading*, *programming*, *Functional programming*, *Writing*, *ML Pipelines*
+
+
 # [Project 1: Kaggle Titanic Project](https://github.com/numustafa/titanic_project) 
 * Applied Data Analysis Tools, such as Data Cleaning, Data preprocessing, model building and Model Tunnning
 * Datailed the report on processes which are applied
